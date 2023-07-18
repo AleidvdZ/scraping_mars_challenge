@@ -10,7 +10,7 @@ from: https://static.bc-edx.com/data/web/mars_news/index.html
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
-from https://static.bc-edx.com/data/web/mars_news/index.html 
+from https://static.bc-edx.com/data/web/mars_facts/temperature.html 
 
 ## Process and Resources
 
